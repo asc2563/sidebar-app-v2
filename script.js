@@ -11,10 +11,3 @@ function search_bing() {
     window.open(`https://bing.com/search?q=${search}`);
   }
 }
-
-function vscode() {
-  window.open(
-    "C:UsersallisAppDataRoamingMicrosoftWindowsStart MenuProgramsVisual Studio CodeVisual Studio Code.lnk",
-    _blank
-  );
-}
